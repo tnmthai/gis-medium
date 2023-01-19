@@ -7,4 +7,5 @@
 [Chapter 2 - Spatial Raster Data in Python cont.](https://github.com/tnmthai/gis-medium/blob/5e2be72d3f3d507c253e0d391b451bf6c429c7ff/Chapter%202%E2%80%8A-%E2%80%8ASpatial%20Raster%20Data%20in%20Python%C2%A0cont.ipynb)
 
 ### Others
-[Apply mask on Satellite Images](https://github.com/tnmthai/gis-medium/blob/dab48bd0c853e3eacc098a13ed87751afc211bec/Others/apply-mask-on-satellite-images.ipynb)
+[Apply mask on Satellite Images](https://github.com/tnmthai/gis-medium/blob/dab48bd0c853e3eacc098a13ed87751afc211bec/Others/apply-mask-on-satellite-images.ipynb)\
+[Python Script on GPU Using CUDA](https://github.com/tnmthai/gis-medium/blob/13af41c5d29fbea5191248b357551d79ea35e34f/Others/Use_GPU.ipynb)
