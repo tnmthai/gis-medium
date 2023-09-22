@@ -1,5 +1,5 @@
 
-# Python codes for medium posts.
+# Python codes for medium posts. Please visit: [GeoSense](https://tnmthai.medium.com/)
 [Chapter 1 - Spatial Data Introduction](https://github.com/tnmthai/gis-medium/blob/424c2491819f884f1f8d593627bf513f90357477/Chapter%201%E2%80%8A-%E2%80%8ASpatial%20Data%20Introduction.ipynb)\
 [Chapter 2 - Data Formats](https://github.com/tnmthai/gis-medium/blob/ee467ce5476bc999e173f2b6dbe6506590dc335b/Chapter%202%E2%80%8A-%E2%80%8AData%C2%A0Formats.ipynb)\
 [Chapter 2 - Practice Spatial Vector Data with GeoPandas](https://github.com/tnmthai/gis-medium/blob/5e2be72d3f3d507c253e0d391b451bf6c429c7ff/Chapter%202%E2%80%8A-%E2%80%8APractice%20Spatial%20Vector%20Data%20with%20GeoPandas.ipynb)\
